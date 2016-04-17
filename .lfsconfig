@@ -1,2 +1,2 @@
 [lfs]
-	url = http://localhost:8081/artifactory/api/lfs/lfs-local
+url = http://localhost:8081/artifactory/api/lfs/lfs-local
